@@ -1,6 +1,6 @@
 ### Hi there ✨✨ I am Daphny Emily ✨✨
 #### Full Stack Developer
-![Full Stack Developer](https://pbs.twimg.com/profile_banners/1217429306457985025/1631676164/1500x500)
+![Full Stack Developer](https://github.com/daphnyemily/daphnyemily/blob/main/DaphnyEmily.png)
 
 I am a Software Engineer from Boston, MA looking to network within the tech community and beyond. Currently expanding my portfolio and looking to join a dynamic team.
 
