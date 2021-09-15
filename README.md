@@ -15,7 +15,7 @@ With being grounded in my identity, I seek to empower women, especially women of
 ## You can reach me at: daphnyemily@gmail.com
 <p>or @ my social links below:</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daphnyemily)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daphnyfernandes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/daphnyemily)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://daphnyemilydev.com/) 
+[<img src='https://github.com/daphnyemily/daphnyemily/blob/main/github.png' alt='github' height='40'>](https://github.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/daphnyfernandes/)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/web.png' alt='website' height='40'>](https://daphnyemilydev.com/) 
 
 
 
