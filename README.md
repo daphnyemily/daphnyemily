@@ -12,7 +12,7 @@ With being grounded in my identity, I seek to empower women, especially women of
 
 ## Skills: NODE JS / REACT / JS / HTML / CSS
 
-▪️I’m currently working on my portfolio 
+▪️I’m currently building my portfolio 
 
 ▪️Pronouns: she/her/hers 
 
