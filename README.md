@@ -4,9 +4,11 @@
 
 I am a Software Engineer from Boston, MA looking to network within the tech community and beyond. Currently expanding my portfolio and looking to join a dynamic team.
 
-As a very proud Kriola 🇨🇻 (Cape Verdean woman) born and raised in Brockton, MA, I am so proud to come from a city with a large diverse population of people from around the globe. Being surrounded by so many immigrants I have grown to see the struggle my parents and many parents have made to give children like me a better future. This is why I strived to become a Software Engineer.
+As a Cape Verdean woman, I am proud to come from a place with a large diverse population of people. Being surrounded by so many immigrants I have grown to see the struggle my parents and many parents have made to give children like me a better future. This is why I strived to become a Software Engineer. 
 
-With being grounded in my identity, I seek to empower women, especially women of color, in a world that so often chooses to silence them.
+Being the firstborn in the US, I was the translator and the technician. My love for tech started when I set up our first computer. I still remember the excitement of hearing the AOL Dial-Up sound. For me, I thought it was too late to become an engineer, but here I am, and it’s really never too late.
+
+With being grounded in my identity, I seek to empower women, especially women of color, in a world that so often chooses to silence them. Very proud kriola 🇨🇻.
 
 
 
