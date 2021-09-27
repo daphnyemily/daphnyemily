@@ -24,7 +24,7 @@ With being grounded in my identity, I seek to empower women, especially women of
 
 [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/github.png' alt='github' height='40'>](https://github.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/daphnybarbosa/)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/web.png' alt='website' height='40'>](https://daphnyemilydev.com/) 
 
-## Click for <a href="daphnyemilydev.com">Portfolio</a>
+## Click for <a href="https://daphnyemilydev.com/">Portfolio</a>
 
 
 
