@@ -1,4 +1,4 @@
-### Hi there ✨✨ I am Daphny Emily ✨✨
+### Hi there ✨ I am Daphny Emily ✨
 #### Full Stack Developer
 ![Full Stack Developer](https://github.com/daphnyemily/daphnyemily/blob/main/DaphnyEmily.png)
 
