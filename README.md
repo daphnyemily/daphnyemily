@@ -19,9 +19,9 @@ With being grounded in my identity, I seek to empower women, especially women of
 
 <p>or @ my social links below:</p> 
 
-[<img src='https://github.com/daphnyemily/daphnyemily/blob/main/github.png' alt='github' height='40' target="_blank">](https://github.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/linkedin.png' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/daphnybarbosa/)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/twitter.png' alt='twitter' height='40' target="_blank">](https://twitter.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/web.png' alt='website' height='40' target="_blank">](https://daphnyemilydev.com/) 
+[<img src='https://github.com/daphnyemily/daphnyemily/blob/main/github.png' alt='github' height='40' target="_blank">](https://github.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/linkedin.png' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/daphnybarbosa/)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/twitter.png' alt='twitter' height='40' target="_blank">](https://twitter.com/daphnyemily)  [<img src='https://github.com/daphnyemily/daphnyemily/blob/main/web.png' alt='website' height='40' target="_blank">](https://daphnyemilydev.com/)    
 
-## Click for <a href="https://daphnyemilydev.com/" target="_blank">Portfolio</a> or <a href="https://drive.google.com/file/d/1xtQ3U6c9EynueaQUsVG1wIO4o7M5w_pE/view?usp=sharing">Resume</a>       
+## ✨Click for <a href="https://daphnyemilydev.com/" target="_blank">Portfolio</a> or <a href="https://drive.google.com/file/d/1xtQ3U6c9EynueaQUsVG1wIO4o7M5w_pE/view?usp=sharing">Resume</a>       
 
 <!-- ![Profile views](https://gpvc.arturio.dev/daphnyemily)   -->
 <!-- ▪️I’m currently building my portfolio ▪️Pronouns: she/her/hers  -->
