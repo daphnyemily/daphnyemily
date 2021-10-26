@@ -4,9 +4,9 @@
 
 I am a Software Engineer from Boston, MA looking to network within the tech community and beyond. Currently expanding my portfolio and looking to join a dynamic team.
 
-As a Cape Verdean woman, I am proud to come from a place with a large diverse population of people. Being surrounded by so many immigrants I have grown to see the struggle my parents and many parents have made to give children like me a better future. This is why I strived to become a Software Engineer. 
+Being the first in my family born in the US, I was the translator and the technician. My love for tech started when I set up our first computer. I still remember the excitement of hearing the AOL Dial-Up sound.  Having large responsibilities early on engraved my natural sense of organization, problem-solving, and leadership. 
 
-Being the firstborn in the US, I was the translator and the technician. My love for tech started when I set up our first computer. I still remember the excitement of hearing the AOL Dial-Up sound. For me, I thought it was too late to become an engineer, but here I am; driven, determined, and a Full Stack Developer.
+Through many years of working in healthcare & finance, I was often considered to take on roles that have helped to create and implement new workflows to help the team as a whole, work smarter and not harder. With my passion for tech, I took the leap knowing I have the adroitness, and passion to excel as a software engineer. 
 
 With being grounded in my identity, I seek to empower women, especially women of color, in a world that so often chooses to silence them. Very proud kriola 🇨🇻.
 
