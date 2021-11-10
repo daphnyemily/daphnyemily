@@ -2,11 +2,9 @@
 ### Full Stack Developer
 ![Full Stack Developer](https://github.com/daphnyemily/daphnyemily/blob/main/DaphnyEmily.png)
 
-I am a Software Engineer from Boston, MA looking to network within the tech community and beyond. Currently expanding my portfolio and looking to join a dynamic team.
+As the firstborn in the US, I have always been surrounded by the culture of my family’s home country of Cabo Verde. Because of this, I took on large responsibilities at home and within my community, often as a translator or technician. This engraved my natural sense of problem-solving, empathy, and leadership.
 
-Being the first in my family born in the US, I was the translator and the technician. My love for tech started when I set up our first computer. I still remember the excitement of hearing the AOL Dial-Up sound.  Having large responsibilities early on engraved my natural sense of organization, problem-solving, and leadership. 
-
-Through many years of working in healthcare & finance, I was often considered to take on roles that have helped to create and implement new workflows to help the team as a whole, work smarter and not harder. With my passion for tech, I took the leap knowing I have the adroitness, and passion to excel as a software engineer. 
+I was able to take those skills and apply them to any role I transformed into. Whether it was my seven years in healthcare, finance, and now engineering, I have a passion for creating and implementing new workflows to help those within my community and my team. With my drive to assist those around me, I know I have the adroitness and fire to excel within your company.
 
 With being grounded in my identity, I seek to empower women, especially women of color, in a world that so often chooses to silence them. Very proud kriola 🇨🇻.
 
