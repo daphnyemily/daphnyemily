@@ -2,9 +2,10 @@
 ### Full Stack Developer
 ![Full Stack Developer](https://github.com/daphnyemily/daphnyemily/blob/main/DaphnyEmily.png)
 
-As the firstborn in the US, I have always been surrounded by the culture of my family’s home country of Cabo Verde. Because of this, I took on large responsibilities at home and within my community, often as a translator or technician. This engraved my natural sense of problem-solving, empathy, and leadership.
+As the firstborn in the US, I grew up being the problem-solver in my family and community. Once I learned how to read, I was translating mail as well as being the neighborhood tech support. I developed a style of leadership that centers on empathy and problem-solving.
 
-I was able to take those skills and apply them to any role I transformed into. Whether it was my seven years in healthcare, finance, and now engineering, I have a passion for creating and implementing new workflows to help those within my community and my team. With my drive to assist those around me, I know I have the adroitness and fire to excel within your company.
+I've had the privilege of bringing this style of leadership into every job I've had. Whether it was my seven years in healthcare talking to anxious families or even now as an engineer. I have a passion for solving the issues that help those within my community and my team. With my drive to assist those around me, I know I have the skills to excel within your company.
+
 
 With being grounded in my identity, I seek to empower women, especially women of color, in a world that so often chooses to silence them. Very proud kriola 🇨🇻.
 
