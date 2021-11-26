@@ -23,7 +23,7 @@ With being grounded in my identity, I seek to empower women, especially women of
 ## ✨Click for <a href="https://daphnyemilydev.com/" target="_blank">Portfolio</a> or <a href="https://drive.google.com/file/d/1jiI7zJbw_o7gnmM-bzIa642x68ttgxe7/view?usp=sharing">Resume</a>       
 
 <!-- ![Profile views](https://gpvc.arturio.dev/daphnyemily)   -->
-<!-- ▪️I’m currently building my portfolio ▪️Pronouns: she/her/hers  -->
+<!-- ▪️I’m currently building my portfolio ▪️Pronouns: she/her/hers  ----->
 <!--
 **daphnyemily/daphnyemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
